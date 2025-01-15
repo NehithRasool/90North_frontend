@@ -23,7 +23,7 @@ Follow these steps to set up and run the project locally:
    ```
 
 ## Deployment Link
-[https://teal-crostata-3a2bd4.netlify.app/](#)
+[https://teal-crostata-3a2bd4.netlify.app](#)
 
 ---
 
