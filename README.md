@@ -35,4 +35,3 @@ Follow these steps to set up and run the project locally:
 
 ---
 
-Feel free to modify this README file based on your project's requirements.
